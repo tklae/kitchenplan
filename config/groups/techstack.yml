@@ -1,0 +1,23 @@
+attributes:
+    homebrewalt:
+        cask_apps:
+            - intellij-idea
+            - balsamiq-mockups
+            - ccmenu
+            - dia
+            - cyberduck
+            - emacs
+            - freemind
+            - gpgtools
+            - github
+            - gitx
+            - integrity
+            - macvim
+            - mysqlworkbench
+            - owasp-zap
+            - postgres
+            - squirrel
+            - sauce
+            - sequel-pro
+            - vagrant
+            - virtualbox

@@ -1,0 +1,42 @@
+attributes:
+    homebrewalt:
+        apps:
+            - git
+        cask_apps:
+            - google-chrome
+            - android-file-transfer
+            - audacity
+            - box-sync
+            - caffeine
+            - chicken
+            - disk-inventory-x
+            - dropbox
+            - firefox
+            - fluid
+            - google-chrome
+            - google-drive
+            - growl-fork
+            - keyremap4macbook
+            - kindle
+            - send-to-kindle
+            - libreoffice
+            - pckeyboardhack
+            - pokerstars
+            - scroll-reverser
+            - sizeup
+            - skype
+            - slack
+            - soundflower
+            - spotify
+            - steam
+            - teamviewer
+            - textmate
+            - the-unarchiver
+            - thunderbird
+            - torbrowserbundle
+            - transmission
+            - vlc
+            - cd-to
+            - iterm2
+            - nvalt
+            - teleport
