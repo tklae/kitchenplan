@@ -1,9 +1,9 @@
 groups:
-    #- bash
-    #- basic
-    #- developer
-    #- techstack
-    #- games
+    - bash
+    - basic
+    - developer
+    - techstack
+    - games
 recipes:
     global:
         - dotfiles::sshconfig
@@ -51,6 +51,3 @@ attributes:
                 - tklasene
             passwordless: true
             include_sudoers_d: true
-    homebrewalt:
-        cask_apps:
-            - spotify

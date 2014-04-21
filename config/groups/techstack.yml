@@ -1,6 +1,9 @@
 attributes:
     homebrewalt:
         cask_apps:
+            #we need both java6 and 7 for intellij to start up
+            - java6
+            - java7
             - intellij-idea
             - balsamiq-mockups
             - ccmenu
@@ -16,8 +19,9 @@ attributes:
             - mysqlworkbench
             - owasp-zap
             - postgres
-            - squirrel
+            #- squirrel - it's not squirrelSql - that one has to be downloaded mannually because it's a jar-installer: http://downloads.sourceforge.net/project/squirrel-sql/
             - sauce
             - sequel-pro
             - vagrant
             - virtualbox
+            - beyond-compare-4-beta
