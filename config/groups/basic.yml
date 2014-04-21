@@ -2,6 +2,7 @@ attributes:
     homebrewalt:
         apps:
             - git
+            - youtube-dl
         cask_apps:
             - google-chrome
             - android-file-transfer
@@ -38,3 +39,4 @@ attributes:
             - iterm2
             - nvalt
             - teleport
+            #- fuze-meeting #still waiting for pull request to be accepted
