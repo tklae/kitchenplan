@@ -39,4 +39,4 @@ attributes:
             - iterm2
             - nvalt
             - teleport
-            #- fuze-meeting #still waiting for pull request to be accepted
+            #- fuze #still waiting for pull request to be accepted
