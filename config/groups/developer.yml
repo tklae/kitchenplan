@@ -43,6 +43,7 @@ attributes:
             - htop-osx
             - git-flow
             - watch
+            - gradle
             #- rsync -> should already be available
         cask_apps:
             - imageoptim

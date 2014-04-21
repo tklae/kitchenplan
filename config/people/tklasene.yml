@@ -1,5 +1,6 @@
 groups:
     - bash
+    - ohmyzsh
     - basic
     - developer
     - techstack
