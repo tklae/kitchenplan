@@ -33,6 +33,7 @@ recipes:
         - osxdefaults::finder_disable_the_warning_when_changing_a_file_extension
         - osxdefaults::finder_search_the_current_folder_by_default
         - osxdefaults::finder_unhide_home
+        - osxdefaults::avoid_creating_ds_store_files_on_network_volumes
 attributes:
     #mysql_root_password: "password" -> only works once?
     homebrewalt:
@@ -44,6 +45,7 @@ attributes:
             - git-flow
             - watch
             - gradle
+            - phantomjs
             #- rsync -> should already be available
         cask_apps:
             - imageoptim
