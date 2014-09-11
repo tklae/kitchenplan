@@ -20,14 +20,12 @@ attributes:
             - kindle
             - send-to-kindle
             - libreoffice
-            - pokerstars
             - scroll-reverser
             - sizeup
             - skype
             - slack
             - soundflower
             - spotify
-            - steam
             - teamviewer
             - textmate
             - the-unarchiver
@@ -39,4 +37,5 @@ attributes:
             - iterm2
             - nvalt
             - teleport
+            - menumeters
             #- fuze #still waiting for pull request to be accepted
